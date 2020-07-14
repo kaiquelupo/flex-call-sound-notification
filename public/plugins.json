@@ -1,0 +1,13 @@
+[
+  {
+    "name": "plugin-sound-notification",
+    "version": "0.0.0",
+    "class": "SoundNotificationPlugin",
+    "requires": [
+      {
+        "@twilio/flex-ui": "^1"
+      }
+    ],
+    "src": "http://localhost:3000/plugin-sound-notification.js"
+  }
+]
